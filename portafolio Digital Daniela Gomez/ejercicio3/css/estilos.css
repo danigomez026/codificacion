@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+
+}
+
+body{
+    background-image: url("https://cdn.fansshare.com/photo/wallpaper800x800/wallpapers-and-backgrounds-hd-images-1566558098.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.caja{
+    color: blue;
+    margin: auto 50px;
+    padding: 30px;
+    
+}
