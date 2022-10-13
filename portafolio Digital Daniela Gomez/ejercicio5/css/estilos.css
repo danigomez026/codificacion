@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+.linea{
+    height: 5px;
+    background-color: blue;
+}
+.imagen{
+    width: 100px;
+}
