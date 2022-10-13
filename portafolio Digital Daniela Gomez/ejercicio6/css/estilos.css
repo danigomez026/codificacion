@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    
+}
+caption{
+    color: brown;
+}
+
+td,th{ 
+    border: 2px solid black;
+}
+.ocultar{
+    border: none;
+}
+thead{
+    color: rgb(43, 22, 232);
+    font-weight: bolder;
+}
+tbody{
+    color: rgb(231, 56, 80);
+    font-weight: bolder;
+}
