@@ -1,0 +1,42 @@
+
+
+body{
+    background-color:#66CCFF;
+}
+#encabezado img{
+    width: 1500px;
+    height: 300px;
+    
+}
+.titulo{
+    color: red;
+    font-weight: bold;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav li{
+margin-left: 30px;
+list-style: none;
+padding: 10px;
+}
+nav a{
+    text-decoration: none;
+}
+nav li :hover{
+    background-color: aquamarine;
+
+}
+.imagen{
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+
+}
+.pie{
+    text-align: center;
+}
+.documento{
+    text-align: center;
+}
