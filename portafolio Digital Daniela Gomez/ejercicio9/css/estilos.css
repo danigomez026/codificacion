@@ -1,0 +1,47 @@
+body{
+    background-color:lightskyblue;
+}
+ h1{
+    color:red;
+    text-align: center;
+   
+ }
+ ul{
+    display: flex;
+    justify-content: center;
+   
+ }
+ nav li{
+   margin:left;
+   list-style:none;
+  padding:8px;
+ }
+ nav a{
+    text-decoration:none;
+ }
+.pie{
+   text-align: center;
+    color: grey;
+ }
+ .imagen{
+   width:200px;
+   display: block;
+ 
+ }
+table{
+   margin:20px auto ;
+
+ }
+ .video{
+   display: block;
+   margin: 20px auto;
+  
+ }
+ h2{
+   text-align: center;
+
+ }
+ .mapa{
+   display:block;
+   margin:20px auto;
+ }
